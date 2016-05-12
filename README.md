@@ -15,7 +15,7 @@
 
 ## Functionality
 1. Register and login
-2. 
+2. Profiles
 
 ## Game Details
 1. How the game works
