@@ -2,6 +2,8 @@
 
 ## Sections - HTML Pages
 1. Main Landing Page
+  1. Main title of the game
+  2. Main picture 
 2. About Good vs Evil
 3. How to Play Good vs Evil
   1. Controls
