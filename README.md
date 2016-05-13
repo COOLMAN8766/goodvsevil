@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/COOLMAN8766/goodvsevil.png?label=ready&title=Ready)](https://waffle.io/COOLMAN8766/goodvsevil)
 # This is the Good vs Evil Game
 
 ## Sections - HTML Pages
